@@ -30,7 +30,7 @@ form {
 }
 
 .text-input {
-  color: white;
+  color: black;
   padding: 16px;
   border: 1px solid rgba(39, 33, 66, 0.5);
   width: 80%;
@@ -50,7 +50,12 @@ form {
   padding: 14px 24px;
 }
 
-.short-story {
+.submit-input:hover {
+  background-color: #cbc3e3;
+  color: black;
+}
+
+.story {
   font-size: 16px;
   background-color: #816f7d;
   padding: 20px;
